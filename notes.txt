@@ -1,0 +1,4 @@
+how react works and how its rendering and excecuted the components
+how to use profiler in react development tools
+memo 
+useCallback
