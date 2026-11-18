@@ -1,4 +1,9 @@
 how react works and how its rendering and excecuted the components
 how to use profiler in react development tools
 memo 
-useCallback
+
+
+icon button with memo => useCallback
+useMemo
+how react uses VirtualDOM
+why keys matter when managing state 
